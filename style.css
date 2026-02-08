@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  cursor: url("./images/pointer.png"), auto;
+}
+
+canvas {
+  background: #111;
+}
+
+#valentinesButton {
+  display: none;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #ffbc2d;
+  border-radius: 10px;
+  border: 2px solid #fff;
+  height: 50px;
+  font-family: Comic Sans MS;
+}
+
+#valentinesButton a {
+  text-decoration: none;
+  color: red;
+}
