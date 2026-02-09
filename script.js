@@ -174,7 +174,7 @@ button.addEventListener("click", function () {
 
   context.font = "24px Comic Sans MS";
   context.fillText(
-    "Bomiyaatha, even 17 miles can’t stop us ✨",
+    ", even miles can’t stop us ✨",
     canvas.width / 2,
     canvas.height / 2 + 30
   );
